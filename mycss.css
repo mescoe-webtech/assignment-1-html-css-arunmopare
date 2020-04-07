@@ -1,0 +1,46 @@
+#firstDiv{
+	background-color: #adadb2;
+	border-radius: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#thirdDiv{
+	background-color: #adadb2;
+	border-radius: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#FourthDiv{
+	background-color: #adadb2;
+	border-radius: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}	
+
+
+img {
+	background-color: PINK;
+	margin-right: 10px;
+	 border-radius: 30%;
+	}
+body {
+		background-color: #7c7c7f;
+	}
+
+footer{
+
+	background-color: #4a4a4c ;
+	border-radius: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+
+}
+#FifthDiv
+{
+	background-color: #adadb2;
+	border-radius: 10px;
+	margin-left: 20px;
+	margin-right: 20px;	
+}
